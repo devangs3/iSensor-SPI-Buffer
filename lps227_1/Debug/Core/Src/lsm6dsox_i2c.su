@@ -1,0 +1,4 @@
+../Core/Src/lsm6dsox_i2c.c:16:9:lsm6dsoxI2CWhoami	104	static
+../Core/Src/lsm6dsox_i2c.c:36:9:lsm6dsoxI2CSetup	104	static
+../Core/Src/lsm6dsox_i2c.c:95:9:lsm6dsoxI2CAccData	104	static
+../Core/Src/lsm6dsox_i2c.c:128:9:lsm6dsoxI2CGyroData	104	static

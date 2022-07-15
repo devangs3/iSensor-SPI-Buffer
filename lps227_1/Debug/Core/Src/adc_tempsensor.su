@@ -1,0 +1,4 @@
+../Core/Src/adc_tempsensor.c:16:9:adcTempSensor	24	static
+../Core/Src/adc_tempsensor.c:45:6:triggerADCPolling	8	static
+../Core/Src/adc_tempsensor.c:56:9:isConversionADCPolling	16	static
+../Core/Src/adc_tempsensor.c:71:6:triggerADCIRQ	8	static

@@ -1,0 +1,4 @@
+../Core/Src/lis2mdl_i2c.c:16:9:lis2mdlI2CWhoami	32	static
+../Core/Src/lis2mdl_i2c.c:37:9:lis2mdlI2CSetup	48	static
+../Core/Src/lis2mdl_i2c.c:67:9:lis2mdlMagneticRawData	56	static
+../Core/Src/lis2mdl_i2c.c:131:9:lis2mdlI2CMagneticFinalData	16	static

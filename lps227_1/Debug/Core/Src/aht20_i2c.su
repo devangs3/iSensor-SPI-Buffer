@@ -1,0 +1,6 @@
+../Core/Src/aht20_i2c.c:16:9:aht20TempHumiditySetup	104	static
+../Core/Src/aht20_i2c.c:55:9:aht20TempHumidityData	112	static
+../Core/Src/aht20_i2c.c:102:9:aht20TempHumidityRawData	104	static
+../Core/Src/aht20_i2c.c:135:9:aht20TempData	104	static
+../Core/Src/aht20_i2c.c:155:9:aht20HumidityData	104	static
+../Core/Src/aht20_i2c.c:177:9:aht20SoftReset	96	static

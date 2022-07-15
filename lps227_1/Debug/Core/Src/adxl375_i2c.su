@@ -1,0 +1,3 @@
+../Core/Src/adxl375_i2c.c:15:9:adxl375I2CWhoami	104	static
+../Core/Src/adxl375_i2c.c:37:9:adxl375I2CSetup	112	static
+../Core/Src/adxl375_i2c.c:102:9:adxl375I2CAccData	120	static

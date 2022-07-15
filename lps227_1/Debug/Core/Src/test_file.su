@@ -1,0 +1,2 @@
+../Core/Src/test_file.c:17:9:test_fnc	24	static
+../Core/Src/test_file.c:37:9:sensorsInit	152	static

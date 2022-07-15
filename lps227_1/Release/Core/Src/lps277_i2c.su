@@ -1,0 +1,5 @@
+../Core/Src/lps277_i2c.c:16:9:lps227I2CWhoami	32	static
+../Core/Src/lps277_i2c.c:36:9:lps277I2CSetup	48	static
+../Core/Src/lps277_i2c.c:66:9:lps277I2CPressureRawData	56	static
+../Core/Src/lps277_i2c.c:114:10:lps277I2CPressureFinalData	16	static
+../Core/Src/lps277_i2c.c:139:9:lps277I2CDeinit	32	static

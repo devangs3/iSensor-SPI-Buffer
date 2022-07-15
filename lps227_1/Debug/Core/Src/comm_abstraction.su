@@ -1,0 +1,6 @@
+../Core/Src/comm_abstraction.c:19:9:writeRegI2C	40	static
+../Core/Src/comm_abstraction.c:42:9:writeRegSPI	24	static
+../Core/Src/comm_abstraction.c:72:9:readRegI2C	40	static
+../Core/Src/comm_abstraction.c:91:9:readRegSPI	32	static
+../Core/Src/comm_abstraction.c:114:9:receiveI2C	32	static
+../Core/Src/comm_abstraction.c:131:9:transmitI2C	32	static

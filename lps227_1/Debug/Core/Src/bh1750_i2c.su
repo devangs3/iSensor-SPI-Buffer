@@ -1,0 +1,2 @@
+../Core/Src/bh1750_i2c.c:15:9:bh1750I2CSetup	96	static
+../Core/Src/bh1750_i2c.c:37:9:bh1750LightData	104	static

@@ -1,0 +1,3 @@
+../Core/Src/sensor_framework.c:49:20:nextSensor	8	static
+../Core/Src/sensor_framework.c:23:18:getSensorPtr	0	static
+../Core/Src/sensor_framework.c:72:9:sensor_framework	8	static

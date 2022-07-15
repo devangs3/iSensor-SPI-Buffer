@@ -1,0 +1,3 @@
+../Core/Src/adxl375_spi.c:16:9:adxl375SPIWhoami	160	static
+../Core/Src/adxl375_spi.c:37:9:adxl375SPISetup	152	static
+../Core/Src/adxl375_spi.c:88:9:adxl375SPIAccData	168	static

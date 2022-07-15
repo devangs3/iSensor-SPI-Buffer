@@ -1,0 +1,11 @@
+../Core/Src/main.c:206:6:SystemClock_Config	128	static,ignoring_inline_asm
+../Core/Src/main.c:113:5:main	144	static,ignoring_inline_asm
+../Core/Src/main.c:832:6:HAL_GPIO_EXTI_Rising_Callback	0	static
+../Core/Src/main.c:843:6:HAL_RTCEx_TimeStampEventCallback	40	static
+../Core/Src/main.c:867:9:lps277I2CTestInit	80	static
+../Core/Src/main.c:888:9:lis2mdlI2CTestInit	80	static
+../Core/Src/main.c:910:9:lps277I2CTestFunction	96	static
+../Core/Src/main.c:933:9:lis2mdlI2CTestFunction	96	static
+../Core/Src/main.c:955:9:lps277SPITestInit	144	static
+../Core/Src/main.c:977:9:lps277SPITestFunction	160	static
+../Core/Src/main.c:1003:6:Error_Handler	0	static,ignoring_inline_asm

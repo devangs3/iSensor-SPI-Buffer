@@ -1,0 +1,3 @@
+../Core/Src/tsl2591_i2c.c:15:9:tsl2591I2CWhoami	32	static
+../Core/Src/tsl2591_i2c.c:36:9:tsl2591I2CSetup	32	static
+../Core/Src/tsl2591_i2c.c:74:9:tsl2591LightData	40	static

@@ -1,0 +1,2 @@
+../Core/Src/timers.c:20:10:HAL_GetTick	4	static
+../Core/Src/timers.c:32:6:HAL_Delay	24	static

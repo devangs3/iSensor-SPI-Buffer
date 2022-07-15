@@ -1,0 +1,6 @@
+../Core/Src/lps277_spi.c:17:9:lps227SPIWhoami	160	static
+../Core/Src/lps277_spi.c:39:9:lps277SPISetup	160	static
+../Core/Src/lps277_spi.c:81:9:lps277SPIPressureRawData	168	static
+../Core/Src/lps277_spi.c:129:9:lps277SPIPressureData	168	static
+../Core/Src/lps277_spi.c:181:10:lps277SPIPressureFinalData	32	static
+../Core/Src/lps277_spi.c:208:9:lps277SPIDeinit	152	static

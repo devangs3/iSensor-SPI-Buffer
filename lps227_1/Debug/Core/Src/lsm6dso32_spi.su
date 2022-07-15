@@ -1,0 +1,4 @@
+../Core/Src/lsm6dso32_spi.c:16:9:lsm6dso32SPIWhoami	160	static
+../Core/Src/lsm6dso32_spi.c:38:9:lsm6dso32SPISetup	152	static
+../Core/Src/lsm6dso32_spi.c:90:9:lsm6dso32SPIAccData	168	static
+../Core/Src/lsm6dso32_spi.c:140:9:lsm6dso32SPIGyroData	168	static

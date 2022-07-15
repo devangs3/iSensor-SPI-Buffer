@@ -1,0 +1,5 @@
+../Core/Src/bme680_i2c.c:42:9:bme680I2CWhoami	32	static
+../Core/Src/bme680_i2c.c:58:9:bme680I2CReset	32	static
+../Core/Src/bme680_i2c.c:77:9:bme680I2CSetup	120	static
+../Core/Src/bme680_i2c.c:113:9:bme680RawData	104	static
+../Core/Src/bme680_i2c.c:161:9:bme680FinalData	16	static

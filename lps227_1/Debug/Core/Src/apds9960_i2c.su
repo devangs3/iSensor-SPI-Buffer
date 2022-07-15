@@ -1,0 +1,3 @@
+../Core/Src/apds9960_i2c.c:15:9:apds9960I2CWhoami	32	static
+../Core/Src/apds9960_i2c.c:31:9:apds9960ProximitySetup	32	static
+../Core/Src/apds9960_i2c.c:64:9:apds9960ProximityData	32	static
